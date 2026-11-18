@@ -1,0 +1,128 @@
+{
+  "documents": 101,
+  "runs_by_machine": [
+    {
+      "host": "13d2fdc566db",
+      "books": 101
+    },
+    {
+      "host": "169.254.70.167",
+      "books": 1
+    },
+    {
+      "host": "4b5b438d8fb0",
+      "books": 1
+    },
+    {
+      "host": "Ians-MacBook-Air.local",
+      "books": 3
+    },
+    {
+      "host": "bf46029cd486",
+      "books": 3
+    },
+    {
+      "host": "ip-172-31-17-129",
+      "books": 100
+    },
+    {
+      "host": "udc-aw37-1",
+      "books": 101
+    }
+  ],
+  "last_processed": [
+    {
+      "_id": "pg996.txt",
+      "author": "Miguel de Cervantes Saavedra",
+      "bucket": "public-ynr6uw",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-17-129",
+          "at": "2026-11-03 22:51:21.188000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-12 00:15:28.048000",
+          "job": "22832540_101"
+        },
+        {
+          "host": "13d2fdc566db",
+          "at": "2026-11-18 21:02:24.960000"
+        }
+      ],
+      "title": "Don Quixote",
+      "unique_words": 15574,
+      "vocabulary_ratio": 0.0359,
+      "word_count": 433304,
+      "llm_analysis": {
+        "summary": "- Setting: Set in Spain, particularly around the 16th century.\n- Main Characters: Don Quixote, a mad knight, and Sancho Panza, his loyal squire.\n- Plot Summary: Don Quixote, inspired by medieval chivalry stories, decides to ride off as a knight and falls in love with Dulcinea, a woman he believes to be a princess. However, he encounters numerous comedic and tragic misadventures, including battles with windmills, enchanted objects, and misunderstandings.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-12 00:15:28.048000"
+      }
+    },
+    {
+      "_id": "pg98.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-ynr6uw",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-17-129",
+          "at": "2026-11-03 22:51:20.861000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-12 00:15:26.765000",
+          "job": "22832540_100"
+        },
+        {
+          "host": "13d2fdc566db",
+          "at": "2026-11-18 21:02:24.279000"
+        }
+      ],
+      "title": "A Tale of Two Cities",
+      "unique_words": 9698,
+      "vocabulary_ratio": 0.07,
+      "word_count": 138490,
+      "llm_analysis": {
+        "summary": "Jerry Cruncher, a young messenger at Tellson's Bank, receives a mysterious package containing a letter from Mr. Jarvis Lorry, a lawyer. Intrigued, Jerry decides to investigate.",
+        "genre": "mystery",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-12 00:15:26.765000"
+      }
+    },
+    {
+      "_id": "pg963.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-ynr6uw",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-17-129",
+          "at": "2026-11-03 22:51:20.666000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-12 00:15:27.372000",
+          "job": "22832540_99"
+        },
+        {
+          "host": "13d2fdc566db",
+          "at": "2026-11-18 21:02:23.999000"
+        }
+      ],
+      "title": "Little Dorrit",
+      "unique_words": 14784,
+      "vocabulary_ratio": 0.0428,
+      "word_count": 345231,
+      "llm_analysis": {
+        "summary": "Mr Arthur Clennam arrives in London from Marseilles, where he witnessed a tragic event involving a ship sinking. He meets his estranged mother, Mrs Clennam, who is confined to her room due to health issues. During their reunion, Mr Clennam learns about his father's death and the financial troubles of the family. Mrs Clennam reveals that her husband, Jeremiah Flintwinch, proposes marriage to her despite their shared past.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-12 00:15:27.372000"
+      }
+    }
+  ]
+}
